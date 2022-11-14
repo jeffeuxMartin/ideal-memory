@@ -20,4 +20,5 @@ _class:
 
 ---
 
-[example](docs/example.md)
+[example](docs/example)
+[#1](#1)
