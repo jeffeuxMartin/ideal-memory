@@ -22,3 +22,4 @@ _class:
 
 [example](docs/example)
 [#1](#1)
+<!-- https://github.com/ralexander-phi/marp-to-pages -->
